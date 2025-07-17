@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>说明</title>
+    <g id="页面-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="地址参数" transform="translate(-495.000000, -827.000000)">
+            <g id="编组" transform="translate(495.000000, 827.000000)">
+                <circle id="椭圆形" fill="#3C3C3C" cx="18" cy="18" r="18"></circle>
+                <path d="M18,24 C19.1045695,24 20,24.8954305 20,26 C20,27.1045695 19.1045695,28 18,28 C16.8954305,28 16,27.1045695 16,26 C16,24.8954305 16.8954305,24 18,24 Z M18,8 C19.1045695,8 20,8.8954305 20,10 L20,20 C20,21.1045695 19.1045695,22 18,22 C16.8954305,22 16,21.1045695 16,20 L16,10 C16,8.8954305 16.8954305,8 18,8 Z" id="形状结合" fill="#252525"></path>
+            </g>
+        </g>
+    </g>
+</svg>

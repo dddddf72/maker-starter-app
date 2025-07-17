@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="168px" height="168px" viewBox="0 0 168 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>加载</title>
+    <g id="页面-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wifi连接中页面" transform="translate(-456.000000, -685.000000)">
+            <g id="编组-5" transform="translate(456.000000, 685.000000)">
+                <rect id="矩形" fill="#5F5F5F" x="74" y="0" width="20" height="54" rx="10"></rect>
+                <rect id="矩形备份-3" fill="#434343" x="74" y="114" width="20" height="54" rx="10"></rect>
+                <rect id="矩形" fill="#3A3A3A" transform="translate(141.000000, 84.000000) rotate(-270.000000) translate(-141.000000, -84.000000) " x="131" y="57" width="20" height="54" rx="10"></rect>
+                <rect id="矩形备份-3" fill="#4C4C4C" transform="translate(27.000000, 84.000000) rotate(-270.000000) translate(-27.000000, -84.000000) " x="17" y="57" width="20" height="54" rx="10"></rect>
+                <rect id="矩形" fill="#3D3D3D" transform="translate(124.305087, 124.305087) rotate(-225.000000) translate(-124.305087, -124.305087) " x="114.305087" y="97.3050865" width="20" height="54" rx="10"></rect>
+                <rect id="矩形备份-3" fill="#505050" transform="translate(43.694913, 43.694913) rotate(-225.000000) translate(-43.694913, -43.694913) " x="33.6949135" y="16.6949135" width="20" height="54" rx="10"></rect>
+                <rect id="矩形" fill="#464646" transform="translate(43.694913, 124.305087) scale(-1, 1) rotate(-225.000000) translate(-43.694913, -124.305087) " x="33.6949135" y="97.3050865" width="20" height="54" rx="10"></rect>
+                <rect id="矩形备份-3" fill="#757575" transform="translate(124.305087, 43.694913) scale(-1, 1) rotate(-225.000000) translate(-124.305087, -43.694913) " x="114.305087" y="16.6949135" width="20" height="54" rx="10"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

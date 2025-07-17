@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>图片</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="42" height="42" rx="12"></rect>
+    </defs>
+    <g id="页面-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="扫描" transform="translate(-354.000000, -1756.000000)">
+            <g id="编组-3" transform="translate(114.000000, 1701.000000)">
+                <g id="编组" transform="translate(240.000000, 42.000000)">
+                    <g id="图片" transform="translate(0.000000, 13.000000)">
+                        <g id="编组-2">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="蒙版"></g>
+                            <g mask="url(#mask-2)" stroke="#FFFFFF" stroke-width="3">
+                                <g transform="translate(-10.213203, 15.786797)">
+                                    <rect id="矩形" fill="none" transform="translate(21.213203, 28.213203) rotate(-45.000000) translate(-21.213203, -28.213203) " x="7.71320344" y="14.7132034" width="27" height="27" rx="10"></rect>
+                                    <path d="M49.2132034,8.95584412 C51.5604136,8.95584412 53.6854136,9.90723903 55.2236111,11.4454365 C56.7618085,12.9836339 57.7132034,15.1086339 57.7132034,17.4558441 L57.7132034,17.4558441 L57.7132034,33.4558441 C57.7132034,35.8030543 56.7618085,37.9280543 55.2236111,39.4662518 C53.6854136,41.0044492 51.5604136,41.9558441 49.2132034,41.9558441 L49.2132034,41.9558441 L33.2132034,41.9558441 C30.8659932,41.9558441 28.7409932,41.0044492 27.2027958,39.4662518 C25.6645983,37.9280543 24.7132034,35.8030543 24.7132034,33.4558441 L24.7132034,33.4558441 L24.7132034,8.95584412 Z" id="矩形备份-2" fill="#252525" fill-rule="evenodd" transform="translate(41.213203, 25.455844) rotate(-45.000000) translate(-41.213203, -25.455844) "></path>
+                                </g>
+                            </g>
+                        </g>
+                        <rect id="矩形" stroke="#FFFFFF" stroke-width="3" x="1.5" y="1.5" width="39" height="39" rx="12"></rect>
+                        <circle id="椭圆形" stroke="#FFFFFF" stroke-width="3" cx="14" cy="14" r="4.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
